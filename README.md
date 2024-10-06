@@ -42,12 +42,12 @@
 
 --- 
 
-### 📊 Bot Widgets:
+### 📊 Bot:
 
 <p align="center">
-  <img src="https://koreanbots.dev/api/widget/bots/status/1235089708992696391.svg" alt="Bot Status" width="200" />
-  <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708992696391.svg?icon=false&scale=1.0" alt="Server Count" width="200" />
-  <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708992696391.svg?style=classic" alt="Votes Count" width="200" />
+  <img src="https://koreanbots.dev/api/widget/bots/status/1235089708992696391.svg" alt="Bot Status" width="100" />
+  <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708992696391.svg?icon=false&scale=1.0" alt="Server Count" width="100" />
+  <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708992696391.svg?style=classic" alt="Votes Count" width="100" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 ---
 
-### 🤖 Featured Discord Bots:
+### 🤖 Project Bots:
 
 <details>
   <summary>🎵 MusicMaster Bot</summary>
