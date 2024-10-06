@@ -74,7 +74,7 @@
     - Utility functions
   - 🛠️ Tech Stack: Py-cord, MongoDB, Python, json
   - 🌟 Used by: 100+ Discord servers
-  - 🔗 [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot%20applications.commands)
+  - 🔗 [Invite Bot](https://discord.com/oauth2/authorize?client_id=1235089708992696391&permissions=564049867844624&integration_type=0&scope=bot+applications.commands)
 </details>
 
 ---
