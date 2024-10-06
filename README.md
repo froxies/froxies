@@ -21,6 +21,8 @@
 - 📫 How to reach me: your.email@example.com or Discord: YourUsername#0000
 - ⚡ Fun fact: [An Interesting Fact About You]
 
+---
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
@@ -33,7 +35,18 @@
 
 ---
 
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luxcoa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=tokyonight" />
+</p>
+
+---
+
 ### 🤖 Featured Discord Bots:
+
+<div align="center">
 
 <details>
   <summary>🎵 MusicMaster Bot</summary>
@@ -57,14 +70,7 @@
   - 🔗 [Bot Commands](https://github.com/luxcoa/gamestats-bot#commands)
 </details>
 
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luxcoa&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
@@ -95,6 +101,18 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.gg/your-discord-server"><img src="https://img.shields.io/badge/Discord_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+
+---
+
+### 🔧 Contribution Activity:
+
+![Your Contribution Activity](https://activity-graph.herokuapp.com/graph?username=luxcoa&theme=react-dark)
+
+---
+
+### 🌟 Top Languages Used:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luxcoa&layout=compact&theme=tokyonight)
 
 ---
 
