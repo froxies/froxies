@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm luxcoa!</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/your-discord-id"><img src="https://cdn.discordapp.com/attachments/1280491923861278861/1290686754755575952/J.jpg" alt="Discord"></a>
+  <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/luxcoa"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://twitter.com/luxcoa"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
@@ -15,13 +15,11 @@
 ### 🤖 About Me:
 
 - 💻 I'm a Discord Bot Developer
-- 🔭 Currently working on: [Your Current Bot Project]
-- 🌱 Learning: [Technologies you're learning, e.g., new Discord.js features]
-- 💬 Ask me about: Discord bot development and API integration
+- 🔭 I'm currently working on [Your Current Bot Project]
+- 🌱 I'm learning [Technologies you're learning, e.g., new Discord.js features]
+- 💬 Ask me about Discord bot development and API integration
 - 📫 How to reach me: your.email@example.com or Discord: YourUsername#0000
 - ⚡ Fun fact: [An Interesting Fact About You]
-
----
 
 ### 🛠️ Languages and Tools:
 
@@ -30,23 +28,21 @@
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://discord.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats:
+### 📊 Bot Widgets:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luxcoa&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=tokyonight" />
+  <img src="https://koreanbots.dev/api/widget/bots/status/1235089708992696391.svg" alt="Bot Status" width="400" />
+  <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708992696391.svg?icon=false&scale=2" alt="Server Count" width="400" />
+  <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708992696391.svg?style=classic" alt="Votes Count" width="400" />
 </p>
 
 ---
 
 ### 🤖 Featured Discord Bots:
-
-<div align="center">
 
 <details>
   <summary>🎵 MusicMaster Bot</summary>
@@ -70,7 +66,14 @@
   - 🔗 [Bot Commands](https://github.com/luxcoa/gamestats-bot#commands)
 </details>
 
-</div>
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luxcoa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=tokyonight" />
+</p>
 
 ---
 
@@ -99,20 +102,8 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.gg/your-discord-server"><img src="https://img.shields.io/badge/Discord_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/your-discord-server"><img src="https://img.shields.io/badge/Discord Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
----
-
-### 🔧 Contribution Activity:
-
-![Your Contribution Activity](https://activity-graph.herokuapp.com/graph?username=luxcoa&theme=react-dark)
-
----
-
-### 🌟 Top Languages Used:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luxcoa&layout=compact&theme=tokyonight)
 
 ---
 
