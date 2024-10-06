@@ -35,10 +35,16 @@
 ### 📊 Bot Widgets:
 
 <p align="center">
-  <img src="https://koreanbots.dev/api/widget/bots/status/1235089708992696391.svg" alt="Bot Status" width="400" />
-  <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708992696391.svg?icon=false&scale=2" alt="Server Count" width="400" />
-  <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708992696391.svg?style=classic" alt="Votes Count" width="400" />
+  <img src="https://koreanbots.dev/api/widget/bots/status/1235089708996391.svg" alt="Bot Status" width="300" />
+  <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708996391.svg?icon=false&scale=2" alt="Server Count" width="300" />
+  <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708996391.svg?style=classic" alt="Votes Count" width="300" />
 </p>
+
+---
+
+### 🎵 Currently Listening To:
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID)
 
 ---
 
