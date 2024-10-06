@@ -64,12 +64,15 @@
 ### 🤖 Project Bots:
 
 <details>
-  <summary>🎵 MusicMaster Bot</summary>
+  <summary>💫 HanniBot</summary>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luxcoa&repo=hannibot)](https://github.com/luxcoa/hannibot)
   
-  - 🎶 Features: Play music, create playlists, lyrics lookup
-  - 🛠️ Tech Stack: Py-cord, MongoDB, Python
+  - 🎶 Features: 
+    - Provides information about New Jeans
+    - Gambling features (e.g., slot machines, dice games, etc.)
+    - Utility functions
+  - 🛠️ Tech Stack: Py-cord, MongoDB, Python, json
   - 🌟 Used by: 100+ Discord servers
   - 🔗 [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot%20applications.commands)
 </details>
