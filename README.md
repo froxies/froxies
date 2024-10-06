@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm [Your Name]!</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/your-discord-id"><img src="https://cdn.discordapp.com/attachments/1280491923861278861/1290686754755575952/J.jpg?ex=67034bf6&is=6701fa76&hm=92527fd56237a62039e9cba73faa7ba09e054488c5e9135685b1efc537802bca&" alt="Discord"></a>
+  <a href="https://discord.com/users/your-discord-id"><img src="https://cdn.discordapp.com/attachments/1280491923861278861/1290686754755575952/J.jpg&" alt="Discord"></a>
   <a href="https://github.com/luxcoa"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://twitter.com/luxcoa"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
