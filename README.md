@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&color=eaff00&vCenter=true&size=22">
 </p>
 
-<img align="right" height="150px" width="150px" alt="𝓁" src="https://cdn.discordapp.com/attachments/1280491923861278861/1292491623388942426/f2994f83e4a07afc40d08964d0219d0c.jpg"/>
+<img align="right" height="150px" width="150px" alt="𝓁" src="-https://cdn.discordapp.com/attachments/1280491923861278861/1292491623388942426/f2994f83e4a07afc40d08964d0219d0c.jpg?ex=6703ee20&is=67029ca0&hm=837fd112c5a901b52b97b767f56a6b5fd4d15677d9c9db16eefb2662f6b1990d&"/>
 
 ### 🤖 About Me:
 
