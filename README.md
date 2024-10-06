@@ -57,7 +57,7 @@
 
 ### 🎵 Currently Listening To:
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31j4yosihzteytg6rxb55oqd5fyy)
 
 ---
 
