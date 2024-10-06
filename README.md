@@ -48,27 +48,14 @@
 ## 🏆 대표 프로젝트
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="100%" align="center">
-        <h3>Discord 봇 프로젝트</h3>
-        <a href="https://github.com/luxcoa/bot-project1" target="_blank">
-          <img src="https://github.com/luxcoa/bot-project1/raw/main/assets/preview.png" alt="디스코드 봇 프로젝트" width="300px">
-        </a>
-        <br><br>
-        <p>
-          <a href="https://github.com/luxcoa/bot-project1" target="_blank">
-            <img src="https://img.shields.io/badge/코드-GitHub-blue?style=for-the-badge&logo=github" alt="Github 코드">
-          </a>
-          <a href="https://bot-project1-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/데모-Live Demo-green?style=for-the-badge&logo=appveyor" alt="데모">
-          </a>
-        </p>
-        <p><strong>기술 스택:</strong> Python, Discord.py, MongoDB</p>
-        <p>서버 관리와 자동화 기능을 제공하는 디스코드 봇입니다.</p>
-      </td>
-    </tr>
-  </table>
+
+  | 프로젝트 이름 | 이미지 | 기술 스택 | 설명 |
+  |----------------|--------|-----------|------|
+  | **Discord 봇 프로젝트** | ![Discord Bot](https://github.com/luxcoa/bot-project1/raw/main/assets/preview.png) | Python, Discord.py, MongoDB | 서버 관리와 자동화 기능을 제공하는 디스코드 봇입니다. [코드 보기](https://github.com/luxcoa/bot-project1) | [데모 보기](https://bot-project1-demo.com) |
+  | **웹 크롤러** | ![Web Crawler](https://github.com/luxcoa/web-crawler/raw/main/assets/preview.png) | Python, BeautifulSoup, Requests | 웹사이트의 데이터를 수집하고 분석하는 간단한 크롤러입니다. [코드 보기](https://github.com/luxcoa/web-crawler) | [데모 보기](https://web-crawler-demo.com) |
+  | **투표 시스템** | ![Voting System](https://github.com/luxcoa/voting-system/raw/main/assets/preview.png) | Node.js, Express, MongoDB | 사용자 참여를 통해 실시간으로 결과를 확인할 수 있는 투표 시스템입니다. [코드 보기](https://github.com/luxcoa/voting-system) | [데모 보기](https://voting-system-demo.com) |
+  | **투두 리스트** | ![ToDo List](https://github.com/luxcoa/todo-list/raw/main/assets/preview.png) | React, Node.js | 사용자가 할 일을 관리할 수 있는 간단한 투두 리스트 애플리케이션입니다. [코드 보기](https://github.com/luxcoa/todo-list) | [데모 보기](https://todo-list-demo.com) |
+
 </div>
 
 ---
