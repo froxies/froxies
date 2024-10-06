@@ -19,17 +19,26 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/json.svg" alt="JSON" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/lua.svg" alt="Lua" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
 </p>
 
----
+<p align="left">
+  <img src="https://shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+--- 
 
 ### 📊 Bot Widgets:
 
