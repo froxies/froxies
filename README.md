@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello, I'm luxcoa!</h1>
+<h1 align="center">👋 Hello, I'm l!</h1>
 
 <p align="center">
   <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/luxcoa"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&color=eaff00&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&color=4dff00&vCenter=true&size=22">
 </p>
 
 <img align="right" height="150px" width="150px" alt="𝓁" src="https://github.com/user-attachments/assets/77616c3d-babb-47a0-9ba5-65d7c2eb6dae"/>
@@ -92,7 +92,7 @@
 
 <p align="center">
   <a href="mailto:hannifam@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.gg/your-discord-server"><img src="https://img.shields.io/badge/Discord Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/8xZtuQ5rsr
 </p>
 
 ---
