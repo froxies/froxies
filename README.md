@@ -16,6 +16,8 @@
 - 💬 Ask me about Discord bot development
 - 📫 How to reach me: hannifam@proton.me or Discord: lux_co
 
+---
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
