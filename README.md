@@ -10,6 +10,10 @@
 - 대규모 언어 모델을 활용한 자연어 처리 시스템
 - 사용된 주요 기술: Python, PyTorch, Transformers, FastAPI
 
+### [딥러닝 모델 최적화](https://github.com/luxcoa/deep-learning-optimization)
+- 다양한 딥러닝 모델의 성능 최적화
+- 사용된 주요 기술: TensorFlow, Keras, CUDA
+
 ## 💼 기술 스택
 
 <p align="center">
@@ -36,6 +40,7 @@
 ## 🌱 현재 학습 중
 
 - 강화학습과 그 실제 적용
+- 그래프 신경망
 
 ## 📚 최근 블로그 포스트
 
@@ -43,14 +48,15 @@
 - [강화학습의 기초와 응용](https://yourblog.com/reinforcement-learning-basics)
 - [PyTorch vs TensorFlow: 2024년 비교 분석](https://yourblog.com/pytorch-vs-tensorflow-2024)
 - [대규모 언어 모델의 윤리적 고려사항](https://yourblog.com/ethical-considerations-llm)
+- [그래프 신경망의 혁신](https://yourblog.com/graph-neural-networks-innovation)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎨 개인 프로젝트 갤러리
 
 <p align="center">
-  <img src="/api/placeholder/300/200" alt="프로젝트 1 스크린샷" />
-  <img src="/api/placeholder/300/200" alt="프로젝트 2 스크린샷" />
-  <img src="/api/placeholder/300/200" alt="프로젝트 3 스크린샷" />
+  <img src="https://via.placeholder.com/300x200?text=프로젝트+1+스크린샷" alt="프로젝트 1 스크린샷" />
+  <img src="https://via.placeholder.com/300x200?text=프로젝트+2+스크린샷" alt="프로젝트 2 스크린샷" />
+  <img src="https://via.placeholder.com/300x200?text=프로젝트+3+스크린샷" />
 </p>
 
 ## 🌐 오픈소스 기여
@@ -78,9 +84,3 @@ Scala        9 hrs 32 mins   ██████░░░░░░░░░░░
 Markdown     4 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  12.82%
 YAML         2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░   7.71%
 Dockerfile   2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░   5.63%
-```
-<!--END_SECTION:waka-->
-
----
-
-⭐️ From [luxcoa](https://github.com/luxcoa)
