@@ -18,6 +18,10 @@
 - 분산 시스템의 성능 최적화 및 확장성 향상
 - 사용된 주요 기술: Scala, Apache Spark, Hadoop
 
+### [웹 스크래핑 자동화 도구](https://github.com/luxcoa/web-scraping-automation)
+- 웹 데이터를 자동으로 수집 및 분석하는 도구 개발
+- 사용된 주요 기술: Python, BeautifulSoup, Scrapy
+
 ## 💼 기술 스택
 
 <p align="center">
@@ -31,6 +35,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/Scrapy-FF6F00?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
 </p>
 
 ## 📊 GitHub 통계
@@ -48,6 +54,7 @@
 - 강화학습과 그 실제 적용
 - 그래프 신경망
 - 데이터 시각화 기술
+- 웹 스크래핑 기술
 
 ## 📚 최근 블로그 포스트
 
@@ -57,6 +64,7 @@
 - [대규모 언어 모델의 윤리적 고려사항](https://yourblog.com/ethical-considerations-llm)
 - [그래프 신경망의 혁신](https://yourblog.com/graph-neural-networks-innovation)
 - [데이터 시각화의 새로운 방법](https://yourblog.com/data-visualization-techniques)
+- [효율적인 웹 스크래핑 전략](https://yourblog.com/web-scraping-strategies)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎨 개인 프로젝트 갤러리
@@ -65,6 +73,7 @@
   <img src="https://via.placeholder.com/300x200?text=프로젝트+1+스크린샷" alt="프로젝트 1 스크린샷" />
   <img src="https://via.placeholder.com/300x200?text=프로젝트+2+스크린샷" alt="프로젝트 2 스크린샷" />
   <img src="https://via.placeholder.com/300x200?text=프로젝트+3+스크린샷" />
+  <img src="https://via.placeholder.com/300x200?text=프로젝트+4+스크린샷" />
 </p>
 
 ## 🌐 오픈소스 기여
@@ -73,6 +82,7 @@
 - [PyTorch](https://github.com/pytorch/pytorch/issues?q=author%3Aluxcoa): 문서화 개선 및 버그 리포트
 - [Hugging Face Transformers](https://github.com/huggingface/transformers/pulls?q=author%3Aluxcoa): 새로운 모델 구현 기여
 - [Apache Kafka](https://github.com/apache/kafka/pulls?q=author%3Aluxcoa): 안정성 향상 및 기능 추가
+- [Scrapy](https://github.com/scrapy/scrapy/pulls?q=author%3Aluxcoa): 웹 스크래핑 성능 개선
 
 ## 📫 연락처
 
@@ -94,5 +104,4 @@ Scala        9 hrs 32 mins   ██████░░░░░░░░░░░
 Markdown     4 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  12.82%
 YAML         2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░   7.71%
 Dockerfile   2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░   5.63%
-
 <!--END_SECTION:waka-->
