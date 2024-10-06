@@ -1,18 +1,18 @@
-<!-- 타이틀 부분 -->
+<!-- Title Section -->
 <div align="center">
   <img src="https://github.com/luxcoa/luxcoa/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Banner" />
 </div>
 
-<!-- 어바웃 및 프로필 -->
+<!-- About Section -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin: 20px 0;">
   <img src="https://via.placeholder.com/150" alt="Profile" style="border-radius: 50%; margin-right: 20px;" />
   <div>
-    <h2>안녕하세요, 저는 Luxcoa입니다! 👋</h2>
-    <p>디스코드 봇 개발자이자 웹 개발자입니다. 다양한 프로젝트를 통해 기술을 배우고 있으며, 협업을 통해 더 나은 결과를 만들어가고 있습니다.</p>
+    <h2>Hello, I'm Luxcoa! 👋</h2>
+    <p>I am a Discord bot developer and web developer. I learn technologies through various projects and strive to achieve better results through collaboration.</p>
   </div>
 </div>
 
-<!-- 기술 스택 -->
+<!-- Tech Stack Section -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -24,16 +24,17 @@
 
 <br>
 
-<!-- 현재 배우고 있는 기술 -->
+<!-- Studying Section -->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spotify%20API-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />&nbsp
 </div>
 
 <br>
 
-<!-- 도구 및 사용 중인 툴 -->
+<!-- Tools Section -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -45,7 +46,7 @@
 
 <br>
 
-<!-- 연락처 -->
+<!-- Contact Section -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@luxcoa">
@@ -58,25 +59,71 @@
 
 <br>
 
-<!-- 프로젝트 -->
+<!-- Projects Section -->
 <h3 align="center">🔗 My Projects 🔗</h3>
+
 <div align="center">
-  <h4 align="center">디스코드 봇</h4>
-  <p align="center"><strong>기술 스택:</strong> Discord.js, Node.js, MongoDB</p>
-  <p align="center">이 프로젝트는 다양한 디스코드 기능을 구현하여 커뮤니티와의 소통을 돕습니다.</p>
+  <h4 align="center">Discord Bot</h4>
+  <p align="center"><strong>Tech Stack:</strong> Discord.js, Node.js, MongoDB</p>
+  <p align="center">This project helps facilitate communication with the community by implementing various Discord features.</p>
   <p align="center">
     <a href="https://github.com/luxcoa/discord-bot">
-      <img src="https://img.shields.io/badge/코드-github-blue?style=for-the-badge&logo=github" alt="Github 코드" />
+      <img src="https://img.shields.io/badge/Code-Github-Blue?style=for-the-badge&logo=github" alt="Github Code" />
     </a>&nbsp
     <a href="https://discord-bot-demo.com">
-      <img src="https://img.shields.io/badge/라이브-데모-green?style=for-the-badge&logo=appveyor" alt="라이브 데모" />
+      <img src="https://img.shields.io/badge/Live-Demo-Green?style=for-the-badge&logo=appveyor" alt="Live Demo" />
     </a>
   </p>
 </div>
 
 <br>
 
-<!-- 위젯 -->
+<div align="center">
+  <h4 align="center">Spotify Playlist Manager</h4>
+  <p align="center"><strong>Tech Stack:</strong> Python, Flask, Spotify API</p>
+  <p align="center">A web application to manage and create playlists on Spotify.</p>
+  <p align="center">
+    <a href="https://github.com/luxcoa/spotify-playlist-manager">
+      <img src="https://img.shields.io/badge/Code-Github-Blue?style=for-the-badge&logo=github" alt="Github Code" />
+    </a>&nbsp
+    <a href="https://spotify-playlist-manager-demo.com">
+      <img src="https://img.shields.io/badge/Live-Demo-Green?style=for-the-badge&logo=appveyor" alt="Live Demo" />
+    </a>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h4 align="center">Web Scraper</h4>
+  <p align="center"><strong>Tech Stack:</strong> Python, BeautifulSoup</p>
+  <p align="center">This project scrapes data from various websites and outputs it into a readable format.</p>
+  <p align="center">
+    <a href="https://github.com/luxcoa/web-scraper">
+      <img src="https://img.shields.io/badge/Code-Github-Blue?style=for-the-badge&logo=github" alt="Github Code" />
+    </a>&nbsp
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h4 align="center">Portfolio Website</h4>
+  <p align="center"><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
+  <p align="center">My personal portfolio website showcasing my projects and skills.</p>
+  <p align="center">
+    <a href="https://github.com/luxcoa/portfolio-website">
+      <img src="https://img.shields.io/badge/Code-Github-Blue?style=for-the-badge&logo=github" alt="Github Code" />
+    </a>&nbsp
+    <a href="https://luxcoa.github.io/portfolio-website">
+      <img src="https://img.shields.io/badge/Live-Demo-Green?style=for-the-badge&logo=appveyor" alt="Live Demo" />
+    </a>
+  </p>
+</div>
+
+<br>
+
+<!-- Widgets Section -->
 <h3 align="center">📊 Discord Bot Widgets 📊</h3>
 <div align="center">
   <img src="https://koreanbots.dev/api/widget/bots/status/1235089708992696391.svg" alt="Bot Status Widget" />
@@ -86,7 +133,7 @@
 
 <br>
 
-<!-- GitHub 통계 -->
+<!-- GitHub Stats Section -->
 <h3 align="center">📈 GitHub Stats 📈</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luxcoa&show_icons=true&count_private=true&hide_border=true" align="center" />
@@ -96,7 +143,7 @@
 
 <br>
 
-<!-- GitHub 트로피 및 기여 그래프 -->
+<!-- GitHub Trophy and Contribution Graph Section -->
 <h3 align="center">🏆 GitHub Trophies 🏆</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luxcoa&margin-w=15" align="center" />
