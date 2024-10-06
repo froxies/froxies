@@ -9,18 +9,18 @@
   <a href="https://twitter.com/luxcoa"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="프로필 이미지" width="150" style="border-radius: 50%;" />
-</p>
-
 ---
 
-## 👤 About Me
+## 👤 저에 대해
 
-- 🔭 **Currently Working On**: Advanced Discord Bot Development
-- 🌱 **Learning**: Python, Node.js, Docker, Discord API
-- 💬 **Ask me about**: Discord bot development, automation
-- 📫 **Contact**: luxcoa.email@example.com
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="프로필 이미지" width="150" style="border-radius: 50%; margin-bottom: 15px;" />
+</p>
+
+- 🔭 **현재 작업 중**: 고급 Discord 봇 개발
+- 🌱 **배우고 있는 기술**: Python, Node.js, Docker, Discord API
+- 💬 **질문해 주세요**: Discord 봇 개발, 자동화 관련
+- 📫 **연락처**: luxcoa.email@example.com
 
 ---
 
@@ -64,7 +64,7 @@
             <img src="https://img.shields.io/badge/데모-Live Demo-green?style=for-the-badge&logo=appveyor" alt="데모">
           </a>
         </p>
-        <p><strong>Tech Stack:</strong> Python, Discord.py, MongoDB</p>
+        <p><strong>기술 스택:</strong> Python, Discord.py, MongoDB</p>
         <p>서버 관리와 자동화 기능을 제공하는 디스코드 봇입니다.</p>
       </td>
     </tr>
@@ -76,4 +76,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luxcoa&&style=flat-square" alt="Profile Views" />
 </div>
-
