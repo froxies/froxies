@@ -1,88 +1,106 @@
-<h1 align="center">
-  <a href="https://github.com/luxcoa" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=안녕하세요,%20luxcoa입니다!%20👋&fontSize=40&animation=fadeIn&fontColor=fff" />
+<!-- 타이틀 부분 -->
+<div align="center">
+  <img src="https://github.com/luxcoa/luxcoa/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Banner" />
+</div>
+
+<!-- 어바웃 및 프로필 -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; margin: 20px 0;">
+  <img src="https://via.placeholder.com/150" alt="Profile" style="border-radius: 50%; margin-right: 20px;" />
+  <div>
+    <h2>안녕하세요, 저는 Luxcoa입니다! 👋</h2>
+    <p>디스코드 봇 개발자이자 웹 개발자입니다. 다양한 프로젝트를 통해 기술을 배우고 있으며, 협업을 통해 더 나은 결과를 만들어가고 있습니다.</p>
+  </div>
+</div>
+
+<!-- 기술 스택 -->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+</div>
+
+<br>
+
+<!-- 현재 배우고 있는 기술 -->
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<!-- 도구 및 사용 중인 툴 -->
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<!-- 연락처 -->
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@luxcoa">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-</h1>
-
-<p align="center">
-  <a href="https://linkedin.com/in/luxcoa"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/luxcoa"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-</p>
-
----
-
-## 👤 저에 대해
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 20px;">
-    <p>
-      - 🔭 **현재 작업 중**: 고급 Discord 봇 개발<br>
-      - 🌱 **배우고 있는 기술**: Python, Node.js, Docker, Discord API<br>
-      - 💬 **질문해 주세요**: Discord 봇 개발, 자동화 관련<br>
-      - 📫 **연락처**: luxcoa.email@example.com
-    </p>
-  </div>
-  <div style="flex: 0 0 150px;">
-    <img src="https://via.placeholder.com/150" alt="프로필 이미지" width="150" style="border-radius: 50%;"/>
-  </div>
+  <a href="mailto:luxcoa@example.com">
+    <img src="https://img.shields.io/badge/luxcoa@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
 
----
+<br>
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/808a8b91498bba99f3dce7b9c94421e647a8df84/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/02d3f2f265a6f67bdba43d5f2d1e1816c6d5c46d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-</p>
-
----
-
-## 📊 KoreanBots 위젯
-
+<!-- 프로젝트 -->
+<h3 align="center">🔗 My Projects 🔗</h3>
 <div align="center">
-  <img src="https://koreanbots.dev/api/widget/bots/status/1235089708992696391.svg?scale=1.5" alt="봇 상태 위젯" />
-  <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708992696391.svg?icon=false&scale=1.5" alt="서버 수 위젯" />
-  <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708992696391.svg?style=classic&scale=1.5" alt="하트 수 위젯" />
+  <h4 align="center">디스코드 봇</h4>
+  <p align="center"><strong>기술 스택:</strong> Discord.js, Node.js, MongoDB</p>
+  <p align="center">이 프로젝트는 다양한 디스코드 기능을 구현하여 커뮤니티와의 소통을 돕습니다.</p>
+  <p align="center">
+    <a href="https://github.com/luxcoa/discord-bot">
+      <img src="https://img.shields.io/badge/코드-github-blue?style=for-the-badge&logo=github" alt="Github 코드" />
+    </a>&nbsp
+    <a href="https://discord-bot-demo.com">
+      <img src="https://img.shields.io/badge/라이브-데모-green?style=for-the-badge&logo=appveyor" alt="라이브 데모" />
+    </a>
+  </p>
 </div>
 
----
+<br>
 
-## 🏆 대표 프로젝트
-
+<!-- 위젯 -->
+<h3 align="center">📊 Discord Bot Widgets 📊</h3>
 <div align="center">
-
-  | 프로젝트 이름         | 이미지                                                               | 기술 스택                   | 설명                                   |
-  |----------------------|--------------------------------------------------------------------|----------------------------|--------------------------------------|
-  | **Discord 봇 프로젝트** | ![Discord Bot](https://github.com/luxcoa/project1/raw/main/assets/preview.png) | Python, Discord API, MongoDB | Discord 봇의 주요 기능 및 도전 과제. |
-
+  <img src="https://koreanbots.dev/api/widget/bots/status/1235089708992696391.svg" alt="Bot Status Widget" />
+  <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708992696391.svg?icon=false&scale=2" alt="Servers Widget" />
+  <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708992696391.svg?style=classic" alt="Votes Widget" />
 </div>
 
----
+<br>
 
-## 📈 GitHub 통계
-
+<!-- GitHub 통계 -->
+<h3 align="center">📈 GitHub Stats 📈</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luxcoa&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=light&hide_border=true" align="center" />
-</div>
-<br/>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxcoa&hide_border=true&layout=compact" align="center" />
 </div>
-<br/>
 
----
+<br>
 
+<!-- GitHub 트로피 및 기여 그래프 -->
+<h3 align="center">🏆 GitHub Trophies 🏆</h3>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=luxcoa&style=flat-square" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luxcoa&margin-w=15" align="center" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=luxcoa&theme=minimal" align="center" />
 </div>
 
 ---
