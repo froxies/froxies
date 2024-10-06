@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm l!</h1>
+<h1 align="center">👋 Hello, I'm 𝓁!</h1>
 
 <p align="center">
   <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
