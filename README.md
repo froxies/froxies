@@ -45,10 +45,10 @@
 ### 📊 Bot:
 
 <p align="center">
-  <a href="https://koreanbots.dev/bots/1235089708992696391" target="_blank">
+  <a href="https://hannibot.netlify.app/" target="_blank">
     <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708992696391.svg?icon=false&scale=1.0" alt="Server Count" width="200" height="80" />
   </a>
-  <a href="https://koreanbots.dev/bot/1235089708992696391" target="_blank">
+  <a href="https://hannibot.netlify.app/" target="_blank">
     <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708992696391.svg?style=classic" alt="Votes Count" width="200" height="80" />
   </a>
 </p>
