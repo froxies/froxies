@@ -10,13 +10,13 @@
 
 ### 저에 대해 자세히 알아보세요:
 
-- 🔭 현재 [현재 프로젝트]에 대해 작업 중입니다
-- 🌱 지금 [배우고 있는 기술]을 학습하고 있어요
-- 👯 [협업하고 싶은 분야]에서 협업을 찾고 있습니다
-- 💬 [전문 분야]에 대해 질문해주세요
+- 🔭 현재 **Discord 봇 개발** 프로젝트에 대해 작업 중입니다
+- 🌱 지금 **Python, Discord.py, Node.js**와 같은 기술을 학습하고 있어요
+- 👯 **다양한 봇 개발 및 자동화** 관련 협업을 찾고 있습니다
+- 💬 **Discord API, 봇 자동화**에 대해 질문해주세요
 - 📫 연락 방법: your.email@example.com
 - 😄 대명사: [당신의 대명사]
-- ⚡ 재미있는 사실: [당신에 대한 재미있는 사실]
+- ⚡ 재미있는 사실: 디스코드 봇은 제 삶의 일부분입니다!
 
 <br>
 
@@ -25,7 +25,9 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/6c7082258baf2c6ae9533bc6e942cdeae1c8b032/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   <!-- 더 많은 기술 아이콘 추가 -->
 </p>
 
@@ -34,46 +36,47 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">프로젝트 1</h3>
+      <h3 align="center">디스코드 봇 프로젝트 1</h3>
       <div align="center">  
-        <a href="https://github.com/yourusername/project1" target="_blank">
-          <img src="https://github.com/yourusername/project1/raw/main/assets/preview.png" alt="프로젝트 1" height="200px">
+        <a href="https://github.com/yourusername/bot-project1" target="_blank">
+          <img src="https://github.com/yourusername/bot-project1/raw/main/assets/preview.png" alt="디스코드 봇 프로젝트 1" height="200px">
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/yourusername/project1" target="_blank">
+          <a href="https://github.com/yourusername/bot-project1" target="_blank">
             <img src="https://img.shields.io/badge/코드-github-blue?style=for-the-badge&logo=github" alt="Github 코드">
           </a>  
-          <a href="https://project1-demo.com" target="_blank">
+          <a href="https://bot-project1-demo.com" target="_blank">
             <img src="https://img.shields.io/badge/라이브-데모-green?style=for-the-badge&logo=appveyor" alt="라이브 데모">
           </a>
         </p>
-        <p><strong>기술 스택:</strong> React, Node.js, MongoDB</p>
-        <p>프로젝트 1에 대한 간단한 설명. 주요 기능과 기술적 도전에 대해 언급하세요.</p>
+        <p><strong>기술 스택:</strong> Python, Discord.py, MongoDB</p>
+        <p>이 프로젝트는 서버 관리와 자동화를 위한 디스코드 봇입니다. 주요 기능은 사용자 관리, 자동 메시지 전송, 그리고 봇 제어입니다.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">프로젝트 2</h3>
+      <h3 align="center">디스코드 봇 프로젝트 2</h3>
       <div align="center">  
-        <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://github.com/yourusername/project2/raw/main/assets/preview.png" alt="프로젝트 2" height="200px">
+        <a href="https://github.com/yourusername/bot-project2" target="_blank">
+          <img src="https://github.com/yourusername/bot-project2/raw/main/assets/preview.png" alt="디스코드 봇 프로젝트 2" height="200px">
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/yourusername/project2" target="_blank">
+          <a href="https://github.com/yourusername/bot-project2" target="_blank">
             <img src="https://img.shields.io/badge/코드-github-blue?style=for-the-badge&logo=github" alt="Github 코드">
           </a>  
-          <a href="https://project2-demo.com" target="_blank">
+          <a href="https://bot-project2-demo.com" target="_blank">
             <img src="https://img.shields.io/badge/라이브-데모-green?style=for-the-badge&logo=appveyor" alt="라이브 데모">
           </a>
         </p>
-        <p><strong>기술 스택:</strong> Vue.js, Flask, PostgreSQL</p>
-        <p>프로젝트 2에 대한 간단한 설명. 주요 기능과 기술적 도전에 대해 언급하세요.</p>
+        <p><strong>기술 스택:</strong> Node.js, Discord.js, Redis</p>
+        <p>이 봇은 게임과 서버 관리를 위한 고급 기능을 제공하며, 커뮤니티 활동을 관리하고 데이터를 효율적으로 저장합니다.</p>
       </div>
     </td>
   </tr>
+  <!-- 더 많은 레포지토리 추가 -->
 </table>
 
 ### 📊 내 GitHub 통계:
@@ -109,10 +112,6 @@
 </div>  
 
 <br/>
-
-### 📝 최근 블로그 포스트:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yourusername&&style=flat-square" align="center" />
