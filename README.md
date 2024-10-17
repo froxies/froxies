@@ -5,7 +5,7 @@
   <a href="https://github.com/luxcoa"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&color=4dff00&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&color=6bbdff&vCenter=true&size=22">
 </p>
 
 <img align="right" height="150px" width="150px" alt="𝓁" src="https://github.com/user-attachments/assets/98e226fa-33b6-46b1-9810-35d47a4959d7"/>
