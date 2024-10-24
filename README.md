@@ -13,13 +13,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=500&height=50&color=6bbdff&vCenter=true&size=24">
 </p>
 
+<!-- 추가된 GIF -->
 <p align="center">
-  <a href="https://discord.com/users/837570564536270848">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://github.com/luxcoa">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
+  <img src="https://media.giphy.com/media/2xPPpqXK0bZ8jWa6uq/giphy.gif" width="400" alt="coding gif" />
 </p>
 
 ---
