@@ -13,9 +13,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=500&height=50&color=6bbdff&vCenter=true&size=24">
 </p>
 
-<!-- 추가된 GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/2xPPpqXK0bZ8jWa6uq/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://tenor.com/vXPdDnfSmwh.gif" width="400" alt="coding gif" />
 </p>
 
 ---
