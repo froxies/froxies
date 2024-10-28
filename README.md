@@ -13,7 +13,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Discord+Bot+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=500&height=50&color=6bbdff&vCenter=true&size=24">
 </p>
 
-<iframe src="[https://giphy.com/embed/2313NiwrW3iQcnzBoe](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrdDdjaGVwcWM4em4yam10NDkyemhvZzY2OWZhM2o5b3Rla2E1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2313NiwrW3iQcnzBoe/giphy.webp)" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2313NiwrW3iQcnzBoe">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2M3cWwwanVtbzR6ZGlnZGxzYWxtcWp5YXp5cjBtOTVwYWloeTYxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cR9xNhGEHvzKO5vr6Z/giphy.webp" width="400" alt="coding gif" />
+</p>
 ---
 
 ### 🤖 About Me:
