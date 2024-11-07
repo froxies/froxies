@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hello, I'm 𝓁!</h1>
 
-<p align="center">
-  <a href="https://discord.com/users/837570564536270848">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord">
-  </a>
+![Discord](https://discord.c99.nl/widget/theme-2/837570564536270848.png)  
+---
   <a href="https://github.com/luxcoa">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
