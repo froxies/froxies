@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm 𝓁!</h1>
 
-[![Discord](https://discord.c99.nl/widget/theme-1/837570564536270848.png)
+![Discord](https://discord.c99.nl/widget/theme-1/837570564536270848.png)
 ---
   <a href="https://github.com/luxcoa">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
