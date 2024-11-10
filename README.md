@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am 𝓁! 👋</h1>
+<h1 align="center">Hello, I am 𝓁!👋</h1>
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/837570564536270848.png" alt="Discord Status">
@@ -7,9 +7,6 @@
 <p align="center">
   <a href="https://github.com/luxcoa">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://discord.gg/8xZtuQ5rsr">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="mailto:hannifam@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="ProtonMail">
