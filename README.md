@@ -24,7 +24,7 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=luxcoa&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=1a1b27" alt="Top Languages">
 </div>
 
-## 🚀 주요 프로젝트
+## 🚀 Main Project
 
 <table>
   <tr>
@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-## 💻 기술 스택
+## 💻 스택
 
 ### 언어
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
