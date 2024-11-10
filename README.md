@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Stack%20Developer;Discord%20Bot%20Specialist;Always%20Learning&font=Fira%20Code&center=true&width=500&height=50&color=6bbdff&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Discord%20Bot%20Developer;Always%20Learning&font=Fira%20Code&center=true&width=500&height=50&color=6bbdff&vCenter=true&size=24">
 </p>
 
 <div align="center">
