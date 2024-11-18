@@ -55,6 +55,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=luxcoa&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=tokyonight" alt="GitHub Streak">
 </div>
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luxcoa&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
+</div>
 
 ## 🏆 Achievements
 
