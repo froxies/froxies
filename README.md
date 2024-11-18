@@ -13,7 +13,6 @@
   </a>
 </p>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=luxcoa)](https://solved.ac/luxcoa)
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=luxcoa&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=1a1b27" alt="Top Languages">
 </div>
