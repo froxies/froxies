@@ -36,6 +36,11 @@
   <a href="https://discord.com/oauth2/authorize?client_id=1235089708992696391&permissions=564049867844624&integration_type=0&scope=bot+applications.commands">➕ Invite</a>
 </p>
 
+### Features
+- 🎤 **New Jeans Information**: Get the latest updates and information about the New Jeans group.
+- 🎲 **Gambling Features**: Enjoy various gambling games within your Discord server.
+- ⚙️ **Server Management**: Tools for managing your Discord server effectively.
+
 ---
 
 ## 💻 Tech Stack
@@ -66,12 +71,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luxcoa&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel app/?username=luxcoa&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-</ div>
+</div>
 
 ---
 
@@ -97,11 +102,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luxcoa&style=flat-square&color=6bbdff" alt="Profile Views">
-</div>
