@@ -17,88 +17,83 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=luxcoa&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=1a1b27" alt="Top Languages">
 </div>
 
----
-
-## 🚀 Main Project
+## 🚀 Main Projects
 
 ### 🤖 HanniBot
-
-<div align="center">
-  <img src="https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/framework-Py--cord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Framework">
-  <img src="https://img.shields.io/badge/database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Database">
-</div>
-
-<p align="center">Provides information about New Jeans, gambling features, and server management.</p>
 <p align="center">
-  <a href="https://hannibot.netlify.app">🔗 Website</a> |
-  <a href="https://github.com/luxcoa/hannibot">📦 Source Code</a> |
-  <a href="https://discord.com/oauth2/authorize?client_id=1235089708992696391&permissions=564049867844624&integration_type=0&scope=bot+applications.commands">➕ Invite</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-### Features
-- 🎤 **New Jeans Information**: Get the latest updates and information about the New Jeans group.
-- 🎲 **Gambling Features**: Enjoy various gambling games within your Discord server.
-- ⚙️ **Server Management**: Tools for managing your Discord server effectively.
+### 🌐 Profile Repositories
 
----
+#### 1. Awesome Profile README
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Profile%20README-blueviolet?style=for-the-badge&logo=github" alt="Profile README">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</p>
+
+#### 2. Developer Portfolio
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+#### 3. Personal Blog
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=markdown&logoColor=white" alt="MDX">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
 ## 💻 Tech Stack
 
 ### Languages
-<div>
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+</p>
 
-### Frameworks & Libraries
-<div>
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Py-cord](https://img.shields.io/badge/Py-cord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-</div>
+### Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Py--cord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Py-cord">
+</p>
 
 ### Databases
-<div>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel app/?username=luxcoa&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=luxcoa&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=tokyonight" alt="GitHub Streak">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxcoa&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-</div>
+## 🏆 Achievements
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=open-source-initiative" alt="Open Source">
+  <img src="https://img.shields.io/badge/Discord%20Bot-Developer-5865F2?style=for-the-badge&logo=discord" alt="Discord Bot Developer">
+</p>
 
-## 🎵 Music
+## 📫 Connect with Me
 
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31j4yosihzteytg6rxb55oqd5fyy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j4yosihzteytg6rxb55oqd5fyy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing">
+<p align="center">
+  <a href="https://twitter.com/lux_coa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-</div>
+</p>
 
----
-
-## 📊 HanniBot Metrics
-
-<div align="center">
-  <a href="https://hannibot.netlify.app/">
-    <img src="https://koreanbots.dev/api/widget/bots/servers/1235089708992696391.svg?icon=false&scale=1.0" alt="Server Count" width="250">
-  </a>
-  <a href="https://hannibot.netlify.app/">
-    <img src="https://koreanbots.dev/api/widget/bots/votes/1235089708992696391.svg?style=classic" alt="Votes Count" width="250">
-  </a>
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luxcoa&color=blueviolet" alt="Profile Views">
+</p>
