@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am 𝓁! 👋</h1>
+<h1 align="center">Hello, I am Nive 👋</h1>
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/837570564536270848.png" alt="Discord Status">
