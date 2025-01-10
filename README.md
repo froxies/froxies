@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I am Nive 👋</h1>
+<h1 align="center">Hello, I am Zyn 👋</h1>
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/837570564536270848.png" alt="Discord Status">
 </p>
 
 <p align="center">
-  <a href="https://github.com/niveaso">
+  <a href="https://github.com/zynesa">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
   <a href="mailto:hannifam@proton.me">
@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=niveaso&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=1a1b27" alt="Top Languages">
+  <img src="https://github-stats-alpha.vercel.app/api?username=zynesa&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=1a1b27" alt="Top Languages">
 </div>
 
 ## 🚀 Main Projects
@@ -56,12 +56,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niveaso&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niveaso&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=zynesa&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zynesa&theme=tokyonight" alt="GitHub Streak">
 </div>
-<div align = "center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveaso&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zynesa&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages">
   </a>
 </div>
 
@@ -81,5 +81,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niveaso&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=zynesa&color=blueviolet" alt="Profile Views">
 </p>
