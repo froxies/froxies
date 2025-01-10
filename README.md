@@ -13,9 +13,7 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=zynesa&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=1a1b27" alt="Top Languages">
-</div>
+---
 
 ## 🚀 Main Projects
 
@@ -27,6 +25,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
+
+---
 
 ## 💻 Tech Stack
 
@@ -53,32 +53,32 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zynesa&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api?username=zynesa&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zynesa&theme=tokyonight" alt="GitHub Streak">
 </div>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zynesa&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages">
   </a>
 </div>
 
+---
+
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=open-source-initiative" alt="Open Source">
-  <img src="https://img.shields.io/badge/Discord%20Bot-Developer-5865F2?style=for-the-badge&logo=discord" alt="Discord Bot Developer">
+  <img src="https://github-profile-trophy.vercel.app/?username=zynesa&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
+
+---
 
 ## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/niveaso">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zynesa&color=blueviolet" alt="Profile Views">
