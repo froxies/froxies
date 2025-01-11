@@ -10,9 +10,6 @@
 ## About Me | 소개
 > I am Zyn, a Team Leader of Team Q-nd.
 > Team Q-nd의 팀장, Zyn입니다.
-> 
-> [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/zynesa)
-[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:hannifam@proton.me)
 
 ## Tech Stack | 기술 스택
 
