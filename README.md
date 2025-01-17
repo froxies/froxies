@@ -8,8 +8,8 @@
 </div>
 
 ## About Me | 소개
-### I am Zyn, a Team Leader of Team Q-nd.
-> Team Q-nd의 팀장, Zyn입니다.
+### I am Zyn, a Team Leader of Team Architecture Architecture .
+> Team Architecture의 팀장, Zyn입니다.
 
 ## Tech Stack | 기술 스택
 
