@@ -29,6 +29,7 @@
 
 ### HanniBot | 하니봇
 > Advanced bot built with Python, Lavalink, Sql3
+- [HanniBot | 하니봇](https://hannibot.netlify.app/)
 - Music streaming | 음악 재생 (스트리밍)
 - Moderation tools | 서버 관리 명령어
 
