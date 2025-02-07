@@ -8,7 +8,7 @@
 </div>
 
 ## About Me | 소개
-### I am Zyn, a Team Leader of Team Architecture Architecture .
+### I am Zyn, a Team Leader of Team Architecture.
 > Team Architecture의 팀장, Zyn입니다.
 
 ## Tech Stack | 기술 스택
