@@ -29,21 +29,13 @@
 
 ### HanniBot | 하니봇
 > Advanced bot built with Python, Lavalink, Sql3
-- [HanniBot | 하니봇](https://hannibot.netlify.app/)
+- [HanniBot | 하니봇](https://architecs.vercel.app/)
 - Music streaming | 음악 재생 (스트리밍)
 - Moderation tools | 서버 관리 명령어
 
-### Portfolio Website | 포트폴리오 웹사이트
+### Team Portfolio Website | 팀 포트폴리오 웹사이트
 > [포트폴리오](https://zyn-one.vercel.app/)
 
-**Stack | 스택**
-- Modern UI with Tailwind CSS | Tailwind를 활용한 모던한 UI
-- Responsive design for all devices | 반응형 디자인
-- Dark/Light theme support | 다크/라이트 테마 지원
-
-**Contents | 콘텐츠**
-- Stack | 스택
-- Contact form & social links |  문의 & 소셜 링크
  
 <div align="center">
 
