@@ -29,12 +29,12 @@
 
 ### HanniBot | 하니봇
 > Advanced bot built with Python, Lavalink, Sql3
-- [HanniBot | 하니봇](https://architecs.vercel.app/)
+- [HanniBot | 하니봇](https://hannibot.netlify.app/)
 - Music streaming | 음악 재생 (스트리밍)
 - Moderation tools | 서버 관리 명령어
 
 ### Team Portfolio Website | 팀 포트폴리오 웹사이트
-> [포트폴리오](https://zyn-one.vercel.app/)
+> [포트폴리오](https://architecs.vercel.app/)
 
  
 <div align="center">
