@@ -3,8 +3,6 @@
 # Zyn | Full Stack Developer
 #### 풀스택 개발자
 
-[![Discord](https://discord.c99.nl/widget/theme-1/837570564536270848.png)](https://discord.com/users/837570564536270848)
-
 </div>
 
 ## About Me | 소개
