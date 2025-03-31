@@ -1,7 +1,7 @@
 # About
-I'm a developer, Zyn, who uses coding to create what I need!</br>
+I'm a developer Zyn, who uses coding to create what I need!</br>
 
-[![Image](https://i.ibb.co/Xf5q5fzn/8.jpg)(https://discord.com/users/837570564536270848)
+![Image](https://i.ibb.co/Xf5q5fzn/8.jpg)(https://discord.com/users/837570564536270848)
 
 # Skills
 ## Program languages
@@ -23,6 +23,3 @@ I'm a developer, Zyn, who uses coding to create what I need!</br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/zynesa"/>
 </a>
-
-
-~~은발 최고~~
