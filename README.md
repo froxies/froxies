@@ -1,8 +1,7 @@
 # About
 I'm a developer Zyn, who uses coding to create what I need!</br>
 
-![Image](https://i.ibb.co/Xf5q5fzn/8.jpg)(https://discord.com/users/837570564536270848)
-
+![Image](https://i.ibb.co/Xf5q5fzn/8.jpg)
 # Skills
 ## Program languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![CSharp](https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
