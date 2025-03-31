@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello, I'm Zyn!</div>
 
 <div align="center">
-  <b>A passionate developer who brings ideas to life through code</b>
+  <b>Creative developer turning concepts into reality with code</b>
 </div>
 
 <br/>
