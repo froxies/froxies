@@ -1,6 +1,6 @@
 <!-- 프로필 인사 -->
 <div align="center">
-  <h1>👋 Hello, I'm Zyn!</h1>
+  <h1>👋 Hello, I'm Frox!</h1>
   <b>Creative developer turning concepts into reality with code</b>
 </div>
 
@@ -35,15 +35,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/devxb/devxb/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🐮 GitAnimals Farm
+## 🐮 Farm
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
