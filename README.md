@@ -8,7 +8,7 @@
 
 <!-- 방문자 수 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devxb&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=froxies&style=for-the-badge" alt="profile views"/>
 </p>
 
 <!-- 기술 스택은 그대로 두되 아래에 통계 추가 -->
@@ -18,11 +18,11 @@
 ## 🧠 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devxb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=froxies&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxb&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=froxies&theme=tokyonight" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devxb&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=froxies&theme=tokyonight" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devxb&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=froxies&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/zynesa"/>
+    <img src="https://render.gitanimals.org/farms/froxies"/>
   </a>
 </p>
 
