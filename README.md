@@ -3,7 +3,6 @@
   <h1>👋 Hello, I'm Frox!</h1>
   <b>Creative Developer | Problem Solver | Tech Enthusiast</b>
   <br/><br/>
-  <img src="https://media.giphy.com/media/3oKIPwoe7ALh77CX36/giphy.gif" width="50"/>
 </div>
 
 <br/>
@@ -58,7 +57,7 @@
 
 ## 🌱 현재 진행중인 프로젝트 & 작업물
 
-🌟 [Project1](https://github.com/froxies?tab=repositories) — 
+🌟 [Projects](https://github.com/froxies?tab=repositories) — 
 🌟 [Open Source 기여](https://github.com/froxies/Hannibot)  
 🌟 기타 유용한 링크 등
 
